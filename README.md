@@ -13,3 +13,5 @@
 遊戲場景：https://drive.google.com/file/d/1J-VnL63dJ-jcsZ67oYz7tA370QQDaQVt/view?usp=sharing<br>
 # 作業2
 動畫：https://youtu.be/QfhmjqG6gno
+# 作業3
+角色控制：https://drive.google.com/file/d/1GPpsCkUGNjZyEAI1TQkFPjhU3f3u6YME/view?usp=sharing
